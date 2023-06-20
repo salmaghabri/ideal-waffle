@@ -7,7 +7,6 @@ using namespace std;
  
 typedef long long ll;
 ll MOD = 998244353;
-double eps = 1e-12;
 #define fo(i,e) for(ll i = 0; i < e; i++)
 #define rforsn(i,s,e) for(ll i = s; i >= e; i--)
 #define ln "\n"
