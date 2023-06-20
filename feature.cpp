@@ -10,12 +10,4 @@ ll MOD = 998244353;vhbdvdfvbjfdvjbdv
 #define fast_cin() ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
  
 
-int main()
-{
- fast_cin();
- ll t;
- cout<<"features";
-
-
- return 0;
-}
+int main()hvcqsjhvcsdvcjqvcsvc
