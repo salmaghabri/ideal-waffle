@@ -19,7 +19,7 @@ double eps = 1e-12;
 int main()
 {
  fast_cin();
- ll t;
+ ll t,w;
  cin >> t;
 while(t--){
     ll x,y; 
